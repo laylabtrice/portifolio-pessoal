@@ -1,20 +1,31 @@
-# portifolio-pessoal
+# Índice
+[PROJETO : portifolio-pessoal]()
+[Descrição]()
+[Introdução]()
+[Funcionalidades]()
+[Tecnologias]()
+[Fontes Consultadas]()
+[AUTORES]()
+
+
+
+# PROJETO : portifolio-pessoal
 
 Projeto criado utilizando exemplo do Bootstrap para ensino de uso do README e do Boostrap.
 
-## DESCRIÇÃO
+## Descrição
 
 
-## INTRODUÇÃO
+## Introdução
 
 
-## FUNCIONALIDADES
+## Funcionalidades
 
 
-### TECNOLOGIAS
+### Tecnologias
 
 
-## FONTES CONSULTADAS
+## Fontes Consultadas
 
 
 ## AUTORES
