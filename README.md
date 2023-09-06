@@ -15,6 +15,7 @@ Projeto criado utilizando exemplo do Bootstrap para ensino de uso do README e do
 
 ## Descrição
 
+O portfólio pessoal seré uma combinação dos projetos desenvolvidos por mim durante nossas aulas de Desenvolvimento WEB. Com finalidade inicial de ajudar os alunos com melhoria da preparação do README.
 
 ## Introdução
 
@@ -24,9 +25,15 @@ Projeto criado utilizando exemplo do Bootstrap para ensino de uso do README e do
 
 ### Tecnologias
 
+HTML, VSCODE, Bootstrap, GITHUB, GIT,
 
 ## Fontes Consultadas
 
+https://www.alura.com.br/artigos/escrever-bom-readme
+
+https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89
 
 ## AUTORES
+
+Layla Beatrice e Maria Eduarda Mendes. 💕💕💕
 
