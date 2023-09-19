@@ -30,11 +30,12 @@ O aprendizado de construção do README será utilizado em todos os projetos env
 
 HTML, VSCODE, BOOTSTRAP, GITHUB, GIT, CSS. (Ainda terá a utilizacão do JS)
 
-## Fontes Consultadas
+## 🛠️ Construído com
 
-https://www.alura.com.br/artigos/escrever-bom-readme
+Mencione as ferramentas que você usou para criar seu projeto
 
-https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89
+* [Alura](https://www.alura.com.br/artigos/escrever-bom-readme)
+* [Gist](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89) 
 
 ## AUTORES
 
