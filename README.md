@@ -32,8 +32,6 @@ HTML, VSCODE, BOOTSTRAP, GITHUB, GIT, CSS. (Ainda terá a utilizacão do JS)
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
-
 * [Alura - Artigo de ajuda](https://www.alura.com.br/artigos/escrever-bom-readme)
 * [Gist Github - Lohhans](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89) 
 
